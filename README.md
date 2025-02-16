@@ -26,9 +26,25 @@ To set up your local development environment, please follow the steps below:
    ```bash
    git clone https://github.com/glyphine/ToDoList.git
 
-Change directory to project directory
+Change directory to project directory:
 ```bash
 cd yourprojectname
+```
+Install the required packages using pip:
+```bash
+cd yourprojectname
+```
+Migrate the database:
+```bash
+python manage.py migrate
+```
+Create a superuser:
+```bash
+python manage.py createsuperuser
+```
+Run the development server:
+```bash
+python manage.py runserver
 ```
 
 
