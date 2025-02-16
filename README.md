@@ -22,9 +22,10 @@ Before you begin, ensure you meet the following requirements:
 
 To set up your local development environment, please follow the steps below:
 
-1. Clone the repository:
+Clone the repository:
    ```bash
    git clone https://github.com/glyphine/ToDoList.git
+```
 
 Change directory to project directory:
 ```bash
