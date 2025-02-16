@@ -24,7 +24,7 @@ To set up your local development environment, please follow the steps below:
 
 Clone the repository:
    ```bash
-   git clone https://github.com/glyphine/ToDoList.git
+   git clone https://github.com/glyphine/Django-ToDoList.git
 ```
 
 Change directory to project directory:
